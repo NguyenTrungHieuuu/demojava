@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bai3slide93 {
+public class Bai3 {
     public static void main(String[]arg){
         String Ten;
         int Tuoi;
